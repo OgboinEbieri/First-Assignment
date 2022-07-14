@@ -1,0 +1,19 @@
+section{
+    background-color: rgb(151, 17, 17);
+    color: white;
+    width: 500px   ;
+    margin-right: auto;
+    
+}
+div{
+    background-color: rgb(151, 17, 17);
+    width: 250px;
+    color: white;
+}
+body{
+    background-color: white
+}
+main{
+    background-color: rgb(246, 236, 236);
+    color:rgb(151, 17, 17); ;
+}
